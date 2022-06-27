@@ -6,7 +6,7 @@ It is a basic practice website listing cooking recipes.
 ## What it does?
 It allows you to select a favourite dish and check out the recipe.
 
-## What languages it use?
+## What languages it uses?
 ### Part 1
 - HTML
 
